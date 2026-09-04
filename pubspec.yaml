@@ -1,7 +1,7 @@
 name: navcat
-description: "A new Flutter package project."
+description: "navcat is a dart navigation mesh to construction and query model for floor-based navigation."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Knightro63/navcat/
 
 environment:
   sdk: ^3.10.7
