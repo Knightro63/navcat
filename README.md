@@ -1,7 +1,6 @@
 # navcat
 
 [![Pub Version](https://img.shields.io/pub/v/navcat)](https://pub.dev/packages/navcat)
-[![analysis](https://github.com/Knightro63/navcat/actions/workflows/flutter.yml/badge.svg)](https://github.com/Knightro63//navcat/actions/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 navcat is a dart navigation mesh based on [isaac-mason's](https://github.com/isaac-mason) [navcat](https://github.com/isaac-mason/navcat) to construction and querying library for 3D floor-based navigation.
